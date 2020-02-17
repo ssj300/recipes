@@ -1,13 +1,12 @@
-bread flour   300
-water ~100°f	200
-salt			    3
-yeast			    1
+300 bread flour
+200 water ~100°f
+3 salt
+1 yeast
 
 
 put everything in bowl
 mix until all flour is saturated
 place in fridge for at least 2 days
 
-on day of use - divide into parts and set on counter for it to get to room temp
-
+on day of use - in the morning, divide into parts and set on counter for it to get to room temp
 bake in at oven, stone should be at least 500f
