@@ -14,3 +14,23 @@
 74	milk or water?
 144
 
+
+
+v2 --------------
+100g flour
+10g sugar
+4g baking powder
+pinch salt
+114g total
+
+wet = 114 * 1.25 = 142
+egg
+milk
+
+v3---------------
+100g four
+1ts sugar
+1ts baking powder
+1 pinch salt
+1 egg
+add water / milk until 250g
