@@ -1,19 +1,32 @@
--	dry
-100g	flour
-14g	sugar
-1g	baking soda
-3g	baking powder
-1g	salt
--
-120	total
-	
+v5------------------
+100g flour
+4g sugar
+4g baking powder
+1g salt
+1 egg ~60g
+1% milk until total is 275g - milk gives it a good flavor - 
 
--	wet
-10	oil
-60	egg
-74	milk or water?
-144
 
+v4------------------
+100g flour
+1ts sugar
+1ts baking powder
+1 pinch salt
+1 egg
+1% milk until total is 260g?
+note: too thick good flavor
+
+
+v3---------------
+100g four
+1ts sugar
+1ts baking powder
+1 pinch salt
+1 egg
+add water  until 250g
+
+note : too bland - good consistancy
+----
 
 
 v2 --------------
@@ -27,10 +40,23 @@ wet = 114 * 1.25 = 142
 egg
 milk
 
-v3---------------
-100g four
-1ts sugar
-1ts baking powder
-1 pinch salt
-1 egg
-add water / milk until 250g
+
+
+
+v1 - --------
+-	dry
+100g	flour
+14g	sugar
+1g	baking soda
+3g	baking powder
+1g	salt
+-
+120	total
+
+-	wet
+10	oil
+60	egg
+74	milk or water?
+144
+
+note: good flavor but too thick - 
