@@ -1,3 +1,21 @@
+v11 ---- simply buttermilk
+
+mix{
+  120-130g buttermilk
+  1 egg
+  1g salt
+  4-5g sugar
+}
+
+add & mix {
+  100g flour
+  1g baking soda
+  2g baking powder
+}
+
+
+
+
 v10 --------- with butter?
 melt 1" of butter in microwave
 4g sugar 
